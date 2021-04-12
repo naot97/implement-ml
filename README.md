@@ -1,8 +1,8 @@
-# Implement_Machine_Learning
-Implemented issues of machine learning without available library
+# Implement Machine Learning
+Implemented issues of machine learning from scratch.
 
 ## Repository structure
-Repository has organize to Jupyter python files. Each file is about one topic of Machine Learning algorithms. Each file has implemented algorithm for particular input and shows output of algorithm.
+The eepository includes Jupyter python files. Each file is about one topic of Machine Learning algorithms. Each file has implemented algorithm for particular input and shows output of algorithm.
 
 ## Table of contents
 * [Convolution neutral network](https://github.com/naot97/Implement_Machine_Learning/blob/master/Implement_CNNs.ipynb)
