@@ -2,7 +2,7 @@
 Implemented issues of machine learning from scratch.
 
 ## Repository structure
-The eepository includes Jupyter python files. Each file is about one topic of Machine Learning algorithms. Each file has implemented algorithm for particular input and shows output of algorithm.
+The repository includes Jupyter python files. Each file is about one topic of Machine Learning algorithms. Each file has implemented algorithm for particular input and shows output of algorithm.
 
 ## Table of contents
 * [Convolution neutral network](https://github.com/naot97/Implement_Machine_Learning/blob/master/Implement_CNNs.ipynb)
