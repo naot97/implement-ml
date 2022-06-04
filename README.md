@@ -12,4 +12,6 @@ The repository includes Jupyter python files. Each file is about one topic of Ma
 * [Naive Bayes classifier](https://github.com/naot97/Implement_Machine_Learning/blob/master/Bayes.ipynb)
 * [PCA](https://github.com/naot97/Implement_Machine_Learning/blob/master/Implement%20PCA.ipynb)
 * [Viterbi](https://github.com/naot97/Implement_Machine_Learning/blob/master/Viterbi.ipynb)
+* [Adaboost](https://github.com/naot97/Implement_Machine_Learning/blob/master/Adaboost.ipynb)
+* [Optimizer (SGD)](https://github.com/naot97/Implement_Machine_Learning/blob/master/Optimizers.ipynb) 
 
